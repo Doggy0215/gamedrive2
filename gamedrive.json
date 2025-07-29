@@ -1,0 +1,27 @@
+{
+  "repoName": "GameDrive Repacks",
+  "repoURL": "https://gamedrive.org",
+  "games": [
+    {
+      "name": "Halo Wars 2 Complete Edition",
+      "version": "v1.11.2931.2",
+      "description": "FitGirl Repack \u2014 Includes all DLCs \u2014 Multiplayer support",
+      "downloadURL": "https://gamedrive.org/halo-wars-2-complete-edition-v1-11-2931-2-all-dlcs-multiplayer-fitgirl-repack",
+      "image": "https://gamedrive.org/wp-content/uploads/2023/11/HaloWars2.jpg"
+    },
+    {
+      "name": "Gears 5 Ultimate Edition",
+      "version": "v1.1.97.0",
+      "description": "DODI Repack \u2014 All DLCs \u2014 Ultra HD Texture Pack \u2014 Multiplayer support",
+      "downloadURL": "https://gamedrive.org/gears-5-ultimate-edition-v1-1-97-0-all-dlcs-multiplayer-ultra-hd-texture-pack",
+      "image": "https://gamedrive.org/wp-content/uploads/2024/01/Gears5.jpg"
+    },
+    {
+      "name": "Grounded 2",
+      "version": "2025",
+      "description": "All DLCs included \u2014 High compression \u2014 Repack from GameDrive",
+      "downloadURL": "https://gamedrive.org/grounded-2-2025-all-dlc-multiplayer-repack-download",
+      "image": "https://gamedrive.org/wp-content/uploads/2025/07/Grounded2.jpg"
+    }
+  ]
+}
